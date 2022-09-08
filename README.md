@@ -6,3 +6,9 @@
 ## 06.09.2022
 - Bir gün önceki linkleri tekrar inceleyip mantığını daha iyi anladıktan sonra elim alışsın diye kodları yazdım.
 - Linklere çalışmaya devam ettim.
+## 07.09.2022
+- Http server ile ilgili izlediğim videodaki kodda değişiklik yapıp aldığım hataları düzelttim.
+- Docker indirdim, kurulumunda sıkıntı yaşadım.
+## 07.09.2022
+- Docker kurulumundaki sorunu çözdüm.
+- Docker kullanımı ile ilgili 2 farklı eğitim videosu izledim.
