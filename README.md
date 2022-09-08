@@ -12,3 +12,4 @@
 ## 08.09.2022
 - Docker kurulumundaki sorunu çözdüm.
 - Docker kullanımı ile ilgili 2 farklı eğitim videosu izledim.
+- Git ve Github eğitim videosu izledim.
