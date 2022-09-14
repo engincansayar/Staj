@@ -13,3 +13,12 @@
 - Docker kurulumundaki sorunu çözdüm.
 - Docker kullanımı ile ilgili 2 farklı eğitim videosu izledim.
 - Git ve Github eğitim videosu izledim.
+## 09.09.2022
+- Önceden yazdığım http server ile ilgili kodun docker image dosyasını oluşturmayı öğrendim.
+- Bazı docker özelliklerini denedim(detach, port atama).
+## 12.09.2022
+- Docker alpine kullanımını öğrendim.
+- Threads konusunu araştırdım.
+## 13.09.2022
+- Servera kullanıcıları thread kullanarak alan bir kod yazdım.
+- Kod çalışmadı hatayı bulmaya çalıştım.
