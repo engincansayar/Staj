@@ -22,3 +22,23 @@
 ## 13.09.2022
 - Servera kullanıcıları thread kullanarak alan bir kod yazdım.
 - Kod çalışmadı hatayı bulmaya çalıştım.
+## 14.09.2022
+- Serverını yazdığım kodun client kısmını yazmaya başladım.
+- Kodun hatalarını çözmeye çalıştım.
+## 15.09.2022
+- Client kodunu çalışır hale getirdim.
+## 16.09.2022
+- Text dosyasından veri alıp işleyen server yazdım.
+- Html dosyasından veri alıp işleyen server yazmaya başladım.
+## 19.09.2022
+- Html dosyasından veri alıp işleyen serverı bitirdim.
+- Bu dosya için bir client yazmaya başladım.
+## 20.09.2022
+- Clientı çalışır hale getirdim.
+- RESTful API konusunu araştırdım.
+## 21.09.2022
+- RESTful API server yazmaya başladım.
+## 22.09.2022
+- RESTful API server yazmaya devam ettim.
+## 23.09.2022
+- RESTful API server yazmayı bitirdim.
