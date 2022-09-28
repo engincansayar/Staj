@@ -42,3 +42,10 @@
 - RESTful API server yazmaya devam ettim.
 ## 23.09.2022
 - RESTful API server yazmayı bitirdim.
+## 25.09.2022
+- SQLite kullanımını öğrendim.
+## 26.09.2022
+- SQLite database kullanarak RESTful API server yazmaya başladım.
+- SQLite kurulumunda sıkıntı yaşadım ve düzelttim.
+## 27.09.2022
+- SQLite database kullanarak RESTful API server yazmayı bitirdim.
